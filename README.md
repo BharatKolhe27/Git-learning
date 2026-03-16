@@ -1,2 +1,1 @@
-I am just learning....
-Git cmd
+I am learning git 
