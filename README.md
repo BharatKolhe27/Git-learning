@@ -1,2 +1,2 @@
 I am just learning....
-Git 
+Git cmd
